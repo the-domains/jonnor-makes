@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 23:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 23:27:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Redsail X700/M500 X-axis endstop mount by Jonnor]]></title>
+            <description><![CDATA[<article><h1>Redsail X700/M500 X-axis endstop mount by Jonnor</h1><p>Our Redsail laser had the X-axis flipped, things came out mirrored around X. The included Autolaser software had no way of correcting for this (!), so we decided another fix. Adding another endstop allowed us to flip the axis in firmware settings. Slips onto the carriage without screws.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/bc/ff/30/41/66/IMG_20150514_140928_preview_featured.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:827499</link>
+            <guid isPermaLink="false">95533d25-279b-404a-9c29-b7a2ae38de92</guid>
+            <pubDate>Wed, 25 Nov 2015 23:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e48eec4-bacb-4cb7-bdb0-548c72f982db.jpg">]]></description>
