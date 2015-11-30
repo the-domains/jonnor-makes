@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 23:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 19:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Redsail laser PSU sparks]]></title>
+            <description><![CDATA[<article><h1>Redsail laser PSU sparks</h1><p>Something is not right!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74aeb3bb7a887fc362ec11882e7797e778c290c4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Ted2U9194nA</link>
+            <guid isPermaLink="false">37223745-462e-4232-95a2-c007d3a471bb</guid>
+            <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redsail X700/M500 X-axis endstop mount by Jonnor]]></title>
             <description><![CDATA[<article><h1>Redsail X700/M500 X-axis endstop mount by Jonnor</h1><p>Our Redsail laser had the X-axis flipped, things came out mirrored around X. The included Autolaser software had no way of correcting for this (!), so we decided another fix. Adding another endstop allowed us to flip the axis in firmware settings. Slips onto the carriage without screws.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/bc/ff/30/41/66/IMG_20150514_140928_preview_featured.jpg"></article>]]></description>
