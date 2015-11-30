@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 19:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 19:15:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3d printed microphone (w/ elecret mic capsule)]]></title>
+            <description><![CDATA[<article><h1>3d printed microphone (w/ elecret mic capsule)</h1><p>First functional part in a project centered on 3d-printed electronics: https://github.com/jonnor/projects/tree/master/printable-electronics Thingiverse: coming... Made with ProtoPasta Conductive PLA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d28dbfe45a4c9c4c31a0461edab1d017c7cb6b4b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=UtWn3Vl2V2k</link>
+            <guid isPermaLink="false">cbd52d56-aed3-44f4-89b0-88f1759d90a0</guid>
+            <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fabmodules GCC LaserPro first cuts]]></title>
             <description><![CDATA[<article><h1>Fabmodules GCC LaserPro first cuts</h1><p>We are developing a open source driver for these machines: https://github.com/fellesverkstedet/gcc-laserpro-driver In this video flipping of the Y-axis co-ordinate system was not implemented, which is why the input text was upside down. This has now been fixed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435accf208347a76e5643918db6f2f0c7372f384.jpg"></article>]]></description>
