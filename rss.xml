@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 19:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 23:16:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Electret microphone by jonnor]]></title>
+            <description><![CDATA[<article><h1>Electret microphone by jonnor</h1><p>Project homepage Demo video on Youtube Has body diameter of 20.5 mm (13/16 inch), same as many commercial elecret/measurement microphones. For compatibility with accessories etc. Vitamins required: 1x 9.5 mm electret microphone capsule 1x 1uF-100uF capacitor. Polarized OK 1x AA battery For usage, hook up with jack cable (6.3mm 1/8inch) to a mixer/recorder/sound-card with preamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2447a433e41eb7d64348808efbb62f73b75345f.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:928162</link>
+            <guid isPermaLink="false">ae0816cc-08c4-4f4b-8388-dcbcbf6537f0</guid>
+            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3d printed microphone (w/ elecret mic capsule)]]></title>
             <description><![CDATA[<article><h1>3d printed microphone (w/ elecret mic capsule)</h1><p>First functional part in a project centered on 3d-printed electronics: https://github.com/jonnor/projects/tree/master/printable-electronics Thingiverse: coming... Made with ProtoPasta Conductive PLA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d28dbfe45a4c9c4c31a0461edab1d017c7cb6b4b.jpg"></article>]]></description>
