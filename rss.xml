@@ -4,32 +4,39 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 23:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 23:20:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Watchband in lasercut textile by jonnor]]></title>
+            <description><![CDATA[<article><h1>Watchband in lasercut textile by jonnor</h1><p>Project homepage: jonnor/projects/clothing. Made in collaboration with Annika Rockenberger. Designed for laser-cutting.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/73/f6/a0/b6/f4/watchband-textile-use_preview_featured.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:1179219</link>
+            <guid isPermaLink="false">e38023f6-6eb8-454f-9ba7-55684dba19d6</guid>
+            <pubDate>Wed, 09 Dec 2015 23:20:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shimano casette removal tool by jonnor]]></title>
-            <description><![CDATA[<article><h1>Shimano casette removal tool by jonnor</h1><p>For the lockring on Shimano CS-HGxx-x casettes. Meant for use with a 15mm (pedal) wrench. For removing a cassette you will need a chain-whip, or some other means of preventing the casette from turning. In the mounting direction, the casette stops naturally. Printed and tested for fit. Not used yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8af4bfd0503ba8c5b3659268d561cd7b05a99d2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Shimano casette removal tool by jonnor</h1><p>For the lockring on Shimano CS-HGxx-x casettes. Meant for use with a 15mm (pedal) wrench. For removing a cassette you will need a chain-whip, or some other means of preventing the casette from turning. In the mounting direction, the casette stops naturally. Printed and tested for fit. Not used yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/672917495edf8ac770eafef320953a79dc388727.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:978112</link>
             <guid isPermaLink="false">77ffea9b-31c9-47d8-8cd4-1c44b5007912</guid>
             <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clamping system for Roland Modela MDX-15 by jonnor]]></title>
-            <description><![CDATA[<article><h1>Clamping system for Roland Modela MDX-15 by jonnor</h1><p>Designed to be milled on the Modela itself, from 5-8 mm material, using ~2mm endmill. The roundclamp is 3d-printed. The base doubles as a sacrificial layer, and can be planed by the mill to ensure perfect flatness. Full worksize plates can be fixed with the sideclamps only, smaller pieces with the roundclamps or combination of side+roundclamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d07d9b500abdefc900de9ba62d6dc5d35d36d1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Clamping system for Roland Modela MDX-15 by jonnor</h1><p>Designed to be milled on the Modela itself, from 5-8 mm material, using ~2mm endmill. The roundclamp is 3d-printed. The base doubles as a sacrificial layer, and can be planed by the mill to ensure perfect flatness. Full worksize plates can be fixed with the sideclamps only, smaller pieces with the roundclamps or combination of side+roundclamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64ebc412109dfc381330f8f431c86982d4434329.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:1004476</link>
             <guid isPermaLink="false">2dfcc30c-c5ba-4f71-aa88-df935339b2d8</guid>
             <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blade shears, using 18 mm snap-off blade by jonnor]]></title>
-            <description><![CDATA[<article><h1>Blade shears, using 18 mm snap-off blade by jonnor</h1><p>Part of a little research project in tools based on snap-off blades and 3d-printing. https://github.com/jonnor/projects/tree/master/snapblade-tools Vitamins needed 1x 18 mm snap-off blade, split in two Instructions: Print, using 50% infill Cut open the support using a blade to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e07e19751413b1683a20af4c7fc02758d684f9d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Blade shears, using 18 mm snap-off blade by jonnor</h1><p>Part of a little research project in tools based on snap-off blades and 3d-printing. https://github.com/jonnor/projects/tree/master/snapblade-tools Vitamins needed 1x 18 mm snap-off blade, split in two Instructions: Print, using 50% infill Cut open the support using a blade to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334541528127875396027570f08d93a8f2b23599.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:640411</link>
             <guid isPermaLink="false">c360193f-0fab-4c0f-af54-3e3844820c32</guid>
             <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electret microphone by jonnor]]></title>
-            <description><![CDATA[<article><h1>Electret microphone by jonnor</h1><p>Project homepage Demo video on Youtube Has body diameter of 20.5 mm (13/16 inch), same as many commercial elecret/measurement microphones. For compatibility with accessories etc. Vitamins required: 1x 9.5 mm electret microphone capsule 1x 1uF-100uF capacitor. Polarized OK 1x AA battery For usage, hook up with jack cable (6.3mm 1/8inch) to a mixer/recorder/sound-card with preamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2447a433e41eb7d64348808efbb62f73b75345f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Electret microphone by jonnor</h1><p>Project homepage Demo video on Youtube Has body diameter of 20.5 mm (13/16 inch), same as many commercial elecret/measurement microphones. For compatibility with accessories etc. Vitamins required: 1x 9.5 mm electret microphone capsule 1x 1uF-100uF capacitor. Polarized OK 1x AA battery For usage, hook up with jack cable (6.3mm 1/8inch) to a mixer/recorder/sound-card with preamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c46fb7fe86fbcb6436511060c7e2ffe6ef2402d4.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:928162</link>
             <guid isPermaLink="false">ae0816cc-08c4-4f4b-8388-dcbcbf6537f0</guid>
             <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Redsail X700/M500 X-axis endstop mount by Jonnor</h1><p>Our Redsail laser had the X-axis flipped, things came out mirrored around X. The included Autolaser software had no way of correcting for this (!), so we decided another fix. Adding another endstop allowed us to flip the axis in firmware settings. Slips onto the carriage without screws.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/bc/ff/30/41/66/IMG_20150514_140928_preview_featured.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:827499</link>
             <guid isPermaLink="false">95533d25-279b-404a-9c29-b7a2ae38de92</guid>
-            <pubDate>Wed, 25 Nov 2015 23:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e48eec4-bacb-4cb7-bdb0-548c72f982db.jpg">]]></description>
-            <link>https://thegrid.ai/jonnor-makes/af33ff85-b294-46b2-8436-fe36b9d3b802/index.html</link>
-            <guid isPermaLink="false">af33ff85-b294-46b2-8436-fe36b9d3b802</guid>
             <pubDate>Wed, 25 Nov 2015 23:25:32 GMT</pubDate>
         </item>
     </channel>
