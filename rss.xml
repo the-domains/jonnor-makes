@@ -4,15 +4,8 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 23:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 23:16:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Clamping system for Roland Modela MDX-15 by jonnor]]></title>
-            <description><![CDATA[<article><h1>Clamping system for Roland Modela MDX-15 by jonnor</h1><p>Designed to be milled on the Modela itself, from 5-8 mm material, using ~2mm endmill. The roundclamp is 3d-printed. The base doubles as a sacrificial layer, and can be planed by the mill to ensure perfect flatness. Full worksize plates can be fixed with the sideclamps only, smaller pieces with the roundclamps or combination of side+roundclamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d07d9b500abdefc900de9ba62d6dc5d35d36d1.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:1004476</link>
-            <guid isPermaLink="false">2dfcc30c-c5ba-4f71-aa88-df935339b2d8</guid>
-            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blade shears, using 18 mm snap-off blade by jonnor]]></title>
             <description><![CDATA[<article><h1>Blade shears, using 18 mm snap-off blade by jonnor</h1><p>Part of a little research project in tools based on snap-off blades and 3d-printing. https://github.com/jonnor/projects/tree/master/snapblade-tools Vitamins needed 1x 18 mm snap-off blade, split in two Instructions: Print, using 50% infill Cut open the support using a blade to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e07e19751413b1683a20af4c7fc02758d684f9d.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://twitter.com/jononor/status/571771478590550016</link>
             <guid isPermaLink="false">3360f93e-3100-4a46-a6be-9519f07041d4</guid>
             <pubDate>Fri, 09 Oct 2015 12:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CNC milled + 3dprinted linear stage: http://youtu.be/iKJfX8edezQ?a via @YouTube</p>]]></description>
+            <link>https://twitter.com/jononor/status/571908294161264640</link>
+            <guid isPermaLink="false">7ba0a9ec-2f09-414c-a0b0-0b74af09d3b5</guid>
+            <pubDate>Fri, 09 Oct 2015 12:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
