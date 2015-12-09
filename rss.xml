@@ -4,8 +4,22 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 23:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 23:17:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shimano casette removal tool by jonnor]]></title>
+            <description><![CDATA[<article><h1>Shimano casette removal tool by jonnor</h1><p>For the lockring on Shimano CS-HGxx-x casettes. Meant for use with a 15mm (pedal) wrench. For removing a cassette you will need a chain-whip, or some other means of preventing the casette from turning. In the mounting direction, the casette stops naturally. Printed and tested for fit. Not used yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8af4bfd0503ba8c5b3659268d561cd7b05a99d2.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:978112</link>
+            <guid isPermaLink="false">77ffea9b-31c9-47d8-8cd4-1c44b5007912</guid>
+            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clamping system for Roland Modela MDX-15 by jonnor]]></title>
+            <description><![CDATA[<article><h1>Clamping system for Roland Modela MDX-15 by jonnor</h1><p>Designed to be milled on the Modela itself, from 5-8 mm material, using ~2mm endmill. The roundclamp is 3d-printed. The base doubles as a sacrificial layer, and can be planed by the mill to ensure perfect flatness. Full worksize plates can be fixed with the sideclamps only, smaller pieces with the roundclamps or combination of side+roundclamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d07d9b500abdefc900de9ba62d6dc5d35d36d1.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:1004476</link>
+            <guid isPermaLink="false">2dfcc30c-c5ba-4f71-aa88-df935339b2d8</guid>
+            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blade shears, using 18 mm snap-off blade by jonnor]]></title>
             <description><![CDATA[<article><h1>Blade shears, using 18 mm snap-off blade by jonnor</h1><p>Part of a little research project in tools based on snap-off blades and 3d-printing. https://github.com/jonnor/projects/tree/master/snapblade-tools Vitamins needed 1x 18 mm snap-off blade, split in two Instructions: Print, using 50% infill Cut open the support using a blade to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e07e19751413b1683a20af4c7fc02758d684f9d.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/jonnor-makes/af33ff85-b294-46b2-8436-fe36b9d3b802/index.html</link>
             <guid isPermaLink="false">af33ff85-b294-46b2-8436-fe36b9d3b802</guid>
             <pubDate>Wed, 25 Nov 2015 23:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I published a Thing on @thingiverse! http://www.thingiverse.com/thing:702895 #thingalert</p>]]></description>
-            <link>https://twitter.com/jononor/status/571771478590550016</link>
-            <guid isPermaLink="false">3360f93e-3100-4a46-a6be-9519f07041d4</guid>
-            <pubDate>Fri, 09 Oct 2015 12:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>CNC milled + 3dprinted linear stage: http://youtu.be/iKJfX8edezQ?a via @YouTube</p>]]></description>
-            <link>https://twitter.com/jononor/status/571908294161264640</link>
-            <guid isPermaLink="false">7ba0a9ec-2f09-414c-a0b0-0b74af09d3b5</guid>
-            <pubDate>Fri, 09 Oct 2015 12:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
