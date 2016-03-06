@@ -4,11 +4,18 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 23:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 21:45:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Earplugs by jonnor]]></title>
+            <description><![CDATA[<article><h1>Earplugs by jonnor</h1><p>Project homepage: https://github.com/jonnor/projects/tree/master/practical3d#ninjaflex-earplugs Inspired by modern "HiFi" in-ear hearing protection. Made out of NinjaFlex. The model could also adapted to make replacement earbuds for in-ear headphones. I don't have access to a commercial pair right now for comparisons (lost them), but from 1 hour of usage dampening level and comfort seems comparable.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/69/76/bf/eb/cb/earplugs-printed_preview_featured.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:1198217</link>
+            <guid isPermaLink="false">f5a3d059-12ce-4a6c-adc3-a542961de89f</guid>
+            <pubDate>Sun, 06 Mar 2016 21:34:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watchband in lasercut textile by jonnor]]></title>
-            <description><![CDATA[<article><h1>Watchband in lasercut textile by jonnor</h1><p>Project homepage: jonnor/projects/clothing. Made in collaboration with Annika Rockenberger. Designed for laser-cutting.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/73/f6/a0/b6/f4/watchband-textile-use_preview_featured.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Watchband in lasercut textile by jonnor</h1><p>Project homepage: jonnor/projects/clothing. Made in collaboration with Annika Rockenberger. Designed for laser-cutting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb786b121f5600c2eae4c45c951395edea7ae98.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:1179219</link>
             <guid isPermaLink="false">e38023f6-6eb8-454f-9ba7-55684dba19d6</guid>
             <pubDate>Wed, 09 Dec 2015 23:20:43 GMT</pubDate>
@@ -43,38 +50,31 @@
         </item>
         <item>
             <title><![CDATA[3d printed microphone (w/ elecret mic capsule)]]></title>
-            <description><![CDATA[<article><h1>3d printed microphone (w/ elecret mic capsule)</h1><p>First functional part in a project centered on 3d-printed electronics: https://github.com/jonnor/projects/tree/master/printable-electronics Thingiverse: coming... Made with ProtoPasta Conductive PLA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d28dbfe45a4c9c4c31a0461edab1d017c7cb6b4b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>3d printed microphone (w/ elecret mic capsule)</h1><p>First functional part in a project centered on 3d-printed electronics: https://github.com/jonnor/projects/tree/master/printable-electronics Thingiverse: coming... Made with ProtoPasta Conductive PLA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4a156a9da54ff6a54f8782690c8a33c8ce587b2.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=UtWn3Vl2V2k</link>
             <guid isPermaLink="false">cbd52d56-aed3-44f4-89b0-88f1759d90a0</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fabmodules GCC LaserPro first cuts]]></title>
-            <description><![CDATA[<article><h1>Fabmodules GCC LaserPro first cuts</h1><p>We are developing a open source driver for these machines: https://github.com/fellesverkstedet/gcc-laserpro-driver In this video flipping of the Y-axis co-ordinate system was not implemented, which is why the input text was upside down. This has now been fixed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435accf208347a76e5643918db6f2f0c7372f384.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Fabmodules GCC LaserPro first cuts</h1><p>We are developing a open source driver for these machines: https://github.com/fellesverkstedet/gcc-laserpro-driver In this video flipping of the Y-axis co-ordinate system was not implemented, which is why the input text was upside down. This has now been fixed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9db4013a9a73cf1a7ae37064b95195f401b04e9a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=T_f-NWOrRFQ</link>
             <guid isPermaLink="false">df3e1ea7-b4a8-44da-bd0f-2238992dd70f</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TapeXY, low-cost CNC XY stage prototype]]></title>
-            <description><![CDATA[<article><h1>TapeXY, low-cost CNC XY stage prototype</h1><p>For building laser engrave/cutters or 3d-printers. First version, being driven by Cura as if it is a 3d-printer. Several improvements are already planned for next iteration. Using Kapton tape as sliding surfaces instead of steel rods+linear bearings, and braided Nylon wire instead of belts. Designed for quick&easy reproduction with laser cutter (or CNC mill).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10eb146698836e8297d395d5411986691be7a3c5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>TapeXY, low-cost CNC XY stage prototype</h1><p>For building laser engrave/cutters or 3d-printers. First version, being driven by Cura as if it is a 3d-printer. Several improvements are already planned for next iteration. Using Kapton tape as sliding surfaces instead of steel rods+linear bearings, and braided Nylon wire instead of belts. Designed for quick&easy reproduction with laser cutter (or CNC mill).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/936f8bbc913ebabd6959f33566f5802eb8b3a8ea.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5F9-HIbBYwc</link>
             <guid isPermaLink="false">f31f76a9-0e89-476f-9dc8-8f91b2f9db14</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Redsail laser PSU sparks]]></title>
-            <description><![CDATA[<article><h1>Redsail laser PSU sparks</h1><p>Something is not right!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74aeb3bb7a887fc362ec11882e7797e778c290c4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Redsail laser PSU sparks</h1><p>Something is not right!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/617a31a7471e24dbd560ba7b6d65b664d8cd0078.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Ted2U9194nA</link>
             <guid isPermaLink="false">37223745-462e-4232-95a2-c007d3a471bb</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redsail X700/M500 X-axis endstop mount by Jonnor]]></title>
-            <description><![CDATA[<article><h1>Redsail X700/M500 X-axis endstop mount by Jonnor</h1><p>Our Redsail laser had the X-axis flipped, things came out mirrored around X. The included Autolaser software had no way of correcting for this (!), so we decided another fix. Adding another endstop allowed us to flip the axis in firmware settings. Slips onto the carriage without screws.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/bc/ff/30/41/66/IMG_20150514_140928_preview_featured.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:827499</link>
-            <guid isPermaLink="false">95533d25-279b-404a-9c29-b7a2ae38de92</guid>
-            <pubDate>Wed, 25 Nov 2015 23:25:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
