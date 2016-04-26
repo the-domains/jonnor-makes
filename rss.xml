@@ -4,11 +4,18 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 21:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 16:11:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Magnetic Stir Plate - PC Fan & PWM Speed Controller by thehebs]]></title>
+            <description><![CDATA[<article><h1>Magnetic Stir Plate - PC Fan & PWM Speed Controller by thehebs</h1><p>This is a DIY Magnetic Stir Plate. I personally will use this for making yeast starters for home brewing beer. Others use them to make E Liquid for ecigs. The magnetic puck on the pc fan spins a magnetic stir bar which can be placed in any flat bottomed container.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b31a34f2d9fdca7f4d07e2f1608ba0e3b59801cd.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:1413550</link>
+            <guid isPermaLink="false">8578f138-bafd-49be-8238-59dcc81920a1</guid>
+            <pubDate>Tue, 26 Apr 2016 16:11:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Earplugs by jonnor]]></title>
-            <description><![CDATA[<article><h1>Earplugs by jonnor</h1><p>Project homepage: https://github.com/jonnor/projects/tree/master/practical3d#ninjaflex-earplugs Inspired by modern "HiFi" in-ear hearing protection. Made out of NinjaFlex. The model could also adapted to make replacement earbuds for in-ear headphones. I don't have access to a commercial pair right now for comparisons (lost them), but from 1 hour of usage dampening level and comfort seems comparable.</p><img src="https://thingiverse-production-new.s3.amazonaws.com/renders/69/76/bf/eb/cb/earplugs-printed_preview_featured.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Earplugs by jonnor</h1><p>Project homepage: https://github.com/jonnor/projects/tree/master/practical3d#ninjaflex-earplugs Inspired by modern "HiFi" in-ear hearing protection. Made out of NinjaFlex. The model could also adapted to make replacement earbuds for in-ear headphones. I don't have access to a commercial pair right now for comparisons (lost them), but from 1 hour of usage dampening level and comfort seems comparable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19feeacfff7871e74b8a24a87febda7cbeed724d.jpg"></article>]]></description>
             <link>http://www.thingiverse.com/thing:1198217</link>
             <guid isPermaLink="false">f5a3d059-12ce-4a6c-adc3-a542961de89f</guid>
             <pubDate>Sun, 06 Mar 2016 21:34:16 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>TapeXY, low-cost CNC XY stage prototype</h1><p>For building laser engrave/cutters or 3d-printers. First version, being driven by Cura as if it is a 3d-printer. Several improvements are already planned for next iteration. Using Kapton tape as sliding surfaces instead of steel rods+linear bearings, and braided Nylon wire instead of belts. Designed for quick&easy reproduction with laser cutter (or CNC mill).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/936f8bbc913ebabd6959f33566f5802eb8b3a8ea.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5F9-HIbBYwc</link>
             <guid isPermaLink="false">f31f76a9-0e89-476f-9dc8-8f91b2f9db14</guid>
-            <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redsail laser PSU sparks]]></title>
-            <description><![CDATA[<article><h1>Redsail laser PSU sparks</h1><p>Something is not right!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/617a31a7471e24dbd560ba7b6d65b664d8cd0078.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Ted2U9194nA</link>
-            <guid isPermaLink="false">37223745-462e-4232-95a2-c007d3a471bb</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
     </channel>
