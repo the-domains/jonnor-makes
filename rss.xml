@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 22:05:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adelaide Laser HBOT ( not another AxiDraw ) by cojarbi]]></title>
+            <description><![CDATA[<article><h1>Adelaide Laser HBOT ( not another AxiDraw ) by cojarbi</h1><p>Inspiration The first thing i thought when i saw the AxiDraw was " I want that " but then after a few seconds i said " im building that ". I finished my design a couple of weeks after it was announced.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01031dd7573f32a4839838e07e78b85158215c59.jpg"></article>]]></description>
+            <link>http://www.thingiverse.com/thing:1546158</link>
+            <guid isPermaLink="false">235b32d6-5d1c-4fca-999d-2515b62a7bf7</guid>
+            <pubDate>Mon, 06 Jun 2016 22:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magnetic Stir Plate - PC Fan & PWM Speed Controller by thehebs]]></title>
             <description><![CDATA[<article><h1>Magnetic Stir Plate - PC Fan & PWM Speed Controller by thehebs</h1><p>This is a DIY Magnetic Stir Plate. I personally will use this for making yeast starters for home brewing beer. Others use them to make E Liquid for ecigs. The magnetic puck on the pc fan spins a magnetic stir bar which can be placed in any flat bottomed container.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b31a34f2d9fdca7f4d07e2f1608ba0e3b59801cd.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Fabmodules GCC LaserPro first cuts</h1><p>We are developing a open source driver for these machines: https://github.com/fellesverkstedet/gcc-laserpro-driver In this video flipping of the Y-axis co-ordinate system was not implemented, which is why the input text was upside down. This has now been fixed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9db4013a9a73cf1a7ae37064b95195f401b04e9a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=T_f-NWOrRFQ</link>
             <guid isPermaLink="false">df3e1ea7-b4a8-44da-bd0f-2238992dd70f</guid>
-            <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TapeXY, low-cost CNC XY stage prototype]]></title>
-            <description><![CDATA[<article><h1>TapeXY, low-cost CNC XY stage prototype</h1><p>For building laser engrave/cutters or 3d-printers. First version, being driven by Cura as if it is a 3d-printer. Several improvements are already planned for next iteration. Using Kapton tape as sliding surfaces instead of steel rods+linear bearings, and braided Nylon wire instead of belts. Designed for quick&easy reproduction with laser cutter (or CNC mill).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/936f8bbc913ebabd6959f33566f5802eb8b3a8ea.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5F9-HIbBYwc</link>
-            <guid isPermaLink="false">f31f76a9-0e89-476f-9dc8-8f91b2f9db14</guid>
             <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
     </channel>
