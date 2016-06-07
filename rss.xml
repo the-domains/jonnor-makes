@@ -4,8 +4,22 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 11:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 11:49:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Yesterdays experiment in etching magnetic parts for steppermotor: Partly successful https://github.com/jonnor/projects/tree/master/brushless#etching-steel ... #reprappic.twitter.com/cgO0HlOT4j" src="https://pbs.twimg.com/media/CXegvlQWMAEz_pd.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/682190608916676608</link>
+            <guid isPermaLink="false">e9ee71b0-f722-478b-9f75-482353657489</guid>
+            <pubDate>Tue, 07 Jun 2016 11:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="And since Internet said one could electro-etch steel with household chemicals I had to trypic.twitter.com/61IQCzE7be" src="https://pbs.twimg.com/media/CXWPbqtWEAANe_I.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/681608624255426560</link>
+            <guid isPermaLink="false">f4945b75-a30c-4e46-8461-6fec9c4e6c62</guid>
+            <pubDate>Tue, 07 Jun 2016 11:48:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New Subsignal album in October. Available for preorder now! https://youtu.be/R5bTMqngTE8?t=93 ... #progrock</p>]]></description>
@@ -43,16 +57,16 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Got a 3rd #Ultimaker @Bitraffineriet makerspace, two not enough during busy times. Probably printed 1000s hourspic.twitter.com/g7GTQ9fQGO" src="https://pbs.twimg.com/media/CfZ4-7iWEAESN8X.jpg:large">]]></description>
-            <link>https://twitter.com/jononor/status/717894213371871232</link>
-            <guid isPermaLink="false">6306b3c9-271b-407b-b542-88c6ac615b9c</guid>
+            <description><![CDATA[<img alt="One-click multi-export macro for #FreeCAD. Start of continuous integration for CAD. #CI http://forum.freecadweb.org/viewtopic.php?f=22&amp;t=14146 ...pic.twitter.com/ilOmnzRzg2" src="https://pbs.twimg.com/media/CalRdmRW4AAk0cg.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/696177187251208192</link>
+            <guid isPermaLink="false">0131725d-7f97-4e52-937d-b26c63af86e7</guid>
             <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="One-click multi-export macro for #FreeCAD. Start of continuous integration for CAD. #CI http://forum.freecadweb.org/viewtopic.php?f=22&amp;t=14146 ...pic.twitter.com/ilOmnzRzg2" src="https://pbs.twimg.com/media/CalRdmRW4AAk0cg.jpg:large">]]></description>
-            <link>https://twitter.com/jononor/status/696177187251208192</link>
-            <guid isPermaLink="false">0131725d-7f97-4e52-937d-b26c63af86e7</guid>
+            <description><![CDATA[<img alt="Got a 3rd #Ultimaker @Bitraffineriet makerspace, two not enough during busy times. Probably printed 1000s hourspic.twitter.com/g7GTQ9fQGO" src="https://pbs.twimg.com/media/CfZ4-7iWEAESN8X.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/717894213371871232</link>
+            <guid isPermaLink="false">6306b3c9-271b-407b-b542-88c6ac615b9c</guid>
             <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/jononor/status/695571989403168768</link>
             <guid isPermaLink="false">28160212-56c6-46cb-8dbc-ea79cc0aa41c</guid>
             <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="3dprinted timing belts using #ninjaflex #semiflex - less waiting for special order parts https://www.youmagine.com/designs/parametric-timing-belt-generator ...pic.twitter.com/M2u9I3Tg7R" src="https://pbs.twimg.com/media/Cjb2FZ7UYAAXZHq.jpg:large">]]></description>
-            <link>https://twitter.com/jononor/status/736046183966244864</link>
-            <guid isPermaLink="false">6118d8f9-e218-480e-8461-bd5953932262</guid>
-            <pubDate>Tue, 07 Jun 2016 11:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Earplugs by jonnor]]></title>
-            <description><![CDATA[<article><h1>Earplugs by jonnor</h1><p>Project homepage: https://github.com/jonnor/projects/tree/master/practical3d#ninjaflex-earplugs Inspired by modern "HiFi" in-ear hearing protection. Made out of NinjaFlex. The model could also adapted to make replacement earbuds for in-ear headphones. I don't have access to a commercial pair right now for comparisons (lost them), but from 1 hour of usage dampening level and comfort seems comparable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19feeacfff7871e74b8a24a87febda7cbeed724d.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:1198217</link>
-            <guid isPermaLink="false">f5a3d059-12ce-4a6c-adc3-a542961de89f</guid>
-            <pubDate>Sun, 06 Mar 2016 21:34:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
