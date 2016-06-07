@@ -4,8 +4,50 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 11:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 11:37:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Motor adapter for circular knitting machine]]></title>
+            <description><![CDATA[<article><h1>Motor adapter for circular knitting machine</h1><p>First test of a 3d-printed adapter on a cheap no-name Chinese circular knitting machine (from Banggood). Eventually will have stepper motor and full automation. Part of Idda project, Part of Idda knitting machine project, https://github.com/jonnor/idda-knitting-machine#crank-motor-attachment</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b4b14857233b63df2140f0f038b9ebd4bee41fb.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=loaOWbuzrhs&amp;feature=youtu.be&amp;a</link>
+            <guid isPermaLink="false">5794016c-84e5-416b-a04f-722a57f4a4df</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Some hours of playing with #KICAD, I&apos;m already better friends with it than Fritzing/ EAGLE. No routing yet thoughpic.twitter.com/FAMxIQseaR" src="https://pbs.twimg.com/media/CgK0kv4W4AIDrvc.png:large">]]></description>
+            <link>https://twitter.com/jononor/status/721337435444142080</link>
+            <guid isPermaLink="false">ab649ad7-8beb-4768-9ce1-07e2100802a3</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="crystals actually have a magical property: Piezoelectricity. Pic: Quartz stone after struck https://en.wikipedia.org/wiki/Piezoelectricity ...pic.twitter.com/QO0wfnkOqT" src="https://pbs.twimg.com/media/CgLB99RWcAAwxI_.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/721352162333323265</link>
+            <guid isPermaLink="false">3bd5632f-0e3d-4b85-b109-defdc95dce6e</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Got a 3rd #Ultimaker @Bitraffineriet makerspace, two not enough during busy times. Probably printed 1000s hourspic.twitter.com/g7GTQ9fQGO" src="https://pbs.twimg.com/media/CfZ4-7iWEAESN8X.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/717894213371871232</link>
+            <guid isPermaLink="false">6306b3c9-271b-407b-b542-88c6ac615b9c</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="One-click multi-export macro for #FreeCAD. Start of continuous integration for CAD. #CI http://forum.freecadweb.org/viewtopic.php?f=22&amp;t=14146 ...pic.twitter.com/ilOmnzRzg2" src="https://pbs.twimg.com/media/CalRdmRW4AAk0cg.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/696177187251208192</link>
+            <guid isPermaLink="false">0131725d-7f97-4e52-937d-b26c63af86e7</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>FreeCAD macro: Scale image to match physical size: http://youtu.be/feM51aIdLGo?a via @YouTube</p>]]></description>
+            <link>https://twitter.com/jononor/status/695571989403168768</link>
+            <guid isPermaLink="false">28160212-56c6-46cb-8dbc-ea79cc0aa41c</guid>
+            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="3dprinted timing belts using #ninjaflex #semiflex - less waiting for special order parts https://www.youmagine.com/designs/parametric-timing-belt-generator ...pic.twitter.com/M2u9I3Tg7R" src="https://pbs.twimg.com/media/Cjb2FZ7UYAAXZHq.jpg:large">]]></description>
@@ -33,48 +75,6 @@
             <link>http://www.thingiverse.com/thing:1198217</link>
             <guid isPermaLink="false">f5a3d059-12ce-4a6c-adc3-a542961de89f</guid>
             <pubDate>Sun, 06 Mar 2016 21:34:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watchband in lasercut textile by jonnor]]></title>
-            <description><![CDATA[<article><h1>Watchband in lasercut textile by jonnor</h1><p>Project homepage: jonnor/projects/clothing. Made in collaboration with Annika Rockenberger. Designed for laser-cutting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb786b121f5600c2eae4c45c951395edea7ae98.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:1179219</link>
-            <guid isPermaLink="false">e38023f6-6eb8-454f-9ba7-55684dba19d6</guid>
-            <pubDate>Wed, 09 Dec 2015 23:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shimano casette removal tool by jonnor]]></title>
-            <description><![CDATA[<article><h1>Shimano casette removal tool by jonnor</h1><p>For the lockring on Shimano CS-HGxx-x casettes. Meant for use with a 15mm (pedal) wrench. For removing a cassette you will need a chain-whip, or some other means of preventing the casette from turning. In the mounting direction, the casette stops naturally. Printed and tested for fit. Not used yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/672917495edf8ac770eafef320953a79dc388727.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:978112</link>
-            <guid isPermaLink="false">77ffea9b-31c9-47d8-8cd4-1c44b5007912</guid>
-            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clamping system for Roland Modela MDX-15 by jonnor]]></title>
-            <description><![CDATA[<article><h1>Clamping system for Roland Modela MDX-15 by jonnor</h1><p>Designed to be milled on the Modela itself, from 5-8 mm material, using ~2mm endmill. The roundclamp is 3d-printed. The base doubles as a sacrificial layer, and can be planed by the mill to ensure perfect flatness. Full worksize plates can be fixed with the sideclamps only, smaller pieces with the roundclamps or combination of side+roundclamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64ebc412109dfc381330f8f431c86982d4434329.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:1004476</link>
-            <guid isPermaLink="false">2dfcc30c-c5ba-4f71-aa88-df935339b2d8</guid>
-            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blade shears, using 18 mm snap-off blade by jonnor]]></title>
-            <description><![CDATA[<article><h1>Blade shears, using 18 mm snap-off blade by jonnor</h1><p>Part of a little research project in tools based on snap-off blades and 3d-printing. https://github.com/jonnor/projects/tree/master/snapblade-tools Vitamins needed 1x 18 mm snap-off blade, split in two Instructions: Print, using 50% infill Cut open the support using a blade to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334541528127875396027570f08d93a8f2b23599.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:640411</link>
-            <guid isPermaLink="false">c360193f-0fab-4c0f-af54-3e3844820c32</guid>
-            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electret microphone by jonnor]]></title>
-            <description><![CDATA[<article><h1>Electret microphone by jonnor</h1><p>Project homepage Demo video on Youtube Has body diameter of 20.5 mm (13/16 inch), same as many commercial elecret/measurement microphones. For compatibility with accessories etc. Vitamins required: 1x 9.5 mm electret microphone capsule 1x 1uF-100uF capacitor. Polarized OK 1x AA battery For usage, hook up with jack cable (6.3mm 1/8inch) to a mixer/recorder/sound-card with preamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c46fb7fe86fbcb6436511060c7e2ffe6ef2402d4.jpg"></article>]]></description>
-            <link>http://www.thingiverse.com/thing:928162</link>
-            <guid isPermaLink="false">ae0816cc-08c4-4f4b-8388-dcbcbf6537f0</guid>
-            <pubDate>Wed, 09 Dec 2015 23:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3d printed microphone (w/ elecret mic capsule)]]></title>
-            <description><![CDATA[<article><h1>3d printed microphone (w/ elecret mic capsule)</h1><p>First functional part in a project centered on 3d-printed electronics: https://github.com/jonnor/projects/tree/master/printable-electronics Thingiverse: coming... Made with ProtoPasta Conductive PLA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4a156a9da54ff6a54f8782690c8a33c8ce587b2.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UtWn3Vl2V2k</link>
-            <guid isPermaLink="false">cbd52d56-aed3-44f4-89b0-88f1759d90a0</guid>
-            <pubDate>Mon, 30 Nov 2015 19:15:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
