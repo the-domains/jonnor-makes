@@ -4,8 +4,29 @@
         <description><![CDATA[jonnor-makes]]></description>
         <link>https://thegrid.ai/jonnor-makes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 11:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:39:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-makes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/ClbYxR7UsAAjHGC.jpg:large">]]></description>
+            <link>https://thegrid.ai/jonnor-makes/c3f4fe6e-b444-40ce-aeb2-97f010f6e756/index.html</link>
+            <guid isPermaLink="false">c3f4fe6e-b444-40ce-aeb2-97f010f6e756</guid>
+            <pubDate>Mon, 20 Jun 2016 22:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/ClRoWt_UsAAqAsB.jpg:large">]]></description>
+            <link>https://thegrid.ai/jonnor-makes/be031ee9-5264-4854-aab0-76c21a0689cd/index.html</link>
+            <guid isPermaLink="false">be031ee9-5264-4854-aab0-76c21a0689cd</guid>
+            <pubDate>Mon, 20 Jun 2016 22:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/ClW4MVNWYAAUKsc.jpg:large">]]></description>
+            <link>https://thegrid.ai/jonnor-makes/9bf3214b-c935-4a13-88ee-75459987fed0/index.html</link>
+            <guid isPermaLink="false">9bf3214b-c935-4a13-88ee-75459987fed0</guid>
+            <pubDate>Mon, 20 Jun 2016 22:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="3dprinted timing belts using #ninjaflex #semiflex - less waiting for special order parts https://www.youmagine.com/designs/parametric-timing-belt-generator ...pic.twitter.com/M2u9I3Tg7R" src="https://pbs.twimg.com/media/Cjb2FZ7UYAAXZHq.jpg:large">]]></description>
@@ -54,27 +75,6 @@
             <link>https://twitter.com/jononor/status/681608624255426560</link>
             <guid isPermaLink="false">f4945b75-a30c-4e46-8461-6fec9c4e6c62</guid>
             <pubDate>Tue, 07 Jun 2016 11:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="rml support in #FreeCAD, for using new Path/CAM module with Roland Modela CNC mill: http://forum.freecadweb.org/viewtopic.php?f=15&amp;t=12359&amp;p=99288#p99288 ... #fablabpic.twitter.com/y2yi1I5LlJ" src="https://pbs.twimg.com/media/COL4HTKUcAE_4uQ.png:large">]]></description>
-            <link>https://twitter.com/jononor/status/640346902710648832</link>
-            <guid isPermaLink="false">5f46e494-8662-4276-84b2-7e5702ceb9bd</guid>
-            <pubDate>Tue, 07 Jun 2016 11:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motor adapter for circular knitting machine]]></title>
-            <description><![CDATA[<article><h1>Motor adapter for circular knitting machine</h1><p>First test of a 3d-printed adapter on a cheap no-name Chinese circular knitting machine (from Banggood). Eventually will have stepper motor and full automation. Part of Idda project, Part of Idda knitting machine project, https://github.com/jonnor/idda-knitting-machine#crank-motor-attachment</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b4b14857233b63df2140f0f038b9ebd4bee41fb.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=loaOWbuzrhs&amp;feature=youtu.be&amp;a</link>
-            <guid isPermaLink="false">5794016c-84e5-416b-a04f-722a57f4a4df</guid>
-            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="crystals actually have a magical property: Piezoelectricity. Pic: Quartz stone after struck https://en.wikipedia.org/wiki/Piezoelectricity ...pic.twitter.com/QO0wfnkOqT" src="https://pbs.twimg.com/media/CgLB99RWcAAwxI_.jpg:large">]]></description>
-            <link>https://twitter.com/jononor/status/721352162333323265</link>
-            <guid isPermaLink="false">3bd5632f-0e3d-4b85-b109-defdc95dce6e</guid>
-            <pubDate>Tue, 07 Jun 2016 11:37:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
